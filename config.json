@@ -1,0 +1,5 @@
+{
+  "port": 9999,
+  "booklist": "/data2/kahupuke/booklist/booklist.jsonl",
+  "trussel_path": "/data2/kahupuke/e2h.tsv"
+}

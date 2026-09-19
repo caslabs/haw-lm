@@ -1,0 +1,385 @@
+# sent_id = 1
+# text = I kekahi lā me Makana = A day with Makana
+1	I	I	PART	_	_	0	dep	_	_
+2	kekahi	kekahi	ADJ	_	_	0	dep	_	_
+3	lā	lā	NOUN	_	_	0	dep	_	_
+4	me	me	ADP	_	_	0	dep	_	_
+5	Makana	Makana	PROPN	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 2
+# text = Mākaukau no ke kula = Ready for school
+1	Mākaukau	Mākaukau	ADJ	_	_	0	dep	_	_
+2	no	no	ADP	_	_	0	dep	_	_
+3	ke	ke	DET	_	_	0	dep	_	_
+4	kula	kula	NOUN	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 3
+# text = ‘Ono au i ka ‘aina kakahiaka. = I like my breakfast.
+1	ʻOno	ʻOno	VERB	_	_	0	dep	_	_
+2	au	au	PRON	_	_	0	dep	_	_
+3	i	i	PART	_	_	0	dep	_	_
+4	ka	ka	DET	_	_	0	dep	_	_
+5	ʻaina	ʻaina	NOUN	_	_	0	dep	_	_
+6	kakahiaka	kakahiaka	NOUN	_	_	0	dep	_	_
+7	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 4
+# text = Mmmm, ke kai ‘āpala––ka‘u punahele! = Mmmm, applesauce--my favorite!
+1	Mmmm	Mmmm	INTJ	_	_	0	dep	_	_
+2	,	,	PUNCT	_	_	0	dep	_	_
+3	ke	ke	DET	_	_	0	dep	_	_
+4	kai	kai	NOUN	_	_	0	dep	_	_
+5	ʻāpala	ʻāpala	NOUN	_	_	0	dep	_	_
+6	–	–	PUNCT	_	_	0	dep	_	_
+7	–	–	PUNCT	_	_	0	dep	_	_
+8	kaʻu	kaʻu	ADJ	_	_	0	dep	_	_
+9	punahele	punahele	ADJ	_	_	0	dep	_	_
+10	!	!	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 5
+# text = Ho‘omaka ka papa me Kumu Elina. = Class begins with Miss Erin.
+1	Hoʻomaka	Hoʻomaka	VERB	_	_	0	dep	_	_
+2	ka	ka	DET	_	_	0	dep	_	_
+3	papa	papa	NOUN	_	_	0	dep	_	_
+4	me	me	ADP	_	_	0	dep	_	_
+5	Kumu	Kumu	NOUN	_	_	0	dep	_	_
+6	Elina	Elina	PROPN	_	_	0	dep	_	_
+7	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 6
+# text = ‘Ike ‘o Makana i ke kākau ‘ana. = Makana knows how to write.
+1	ʻIke	ʻIke	VERB	_	_	0	dep	_	_
+2	ʻo	ʻo	PART	_	_	0	dep	_	_
+3	Makana	Makana	PROPN	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	ke	ke	DET	_	_	0	dep	_	_
+6	kākau	kākau	VERB	_	_	0	dep	_	_
+7	ʻana	ʻana	ADV	_	_	0	dep	_	_
+8	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 7
+# text = Makemake ‘o Makana i ka huapalapala Mu. = Makana likes the letter M.
+1	Makemake	Makemake	VERB	_	_	0	dep	_	_
+2	ʻo	ʻo	PART	_	_	0	dep	_	_
+3	Makana	Makana	PROPN	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	ka	ka	DET	_	_	0	dep	_	_
+6	huapalapala	huapalapala	NOUN	_	_	0	dep	_	_
+7	Mu	Mu	NOUN	_	_	0	dep	_	_
+8	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 8
+# text = Wā makemakika = Math time
+1	Wā	Wā	NOUN	_	_	0	dep	_	_
+2	makemakika	makemakika	NOUN	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 9
+# text = E helu kākou i mau hua kukui. = Let's count some kukui nuts.
+1	E	E	PART	_	_	0	dep	_	_
+2	helu	helu	VERB	_	_	0	dep	_	_
+3	kākou	kākou	PRON	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	mau	mau	PART	_	_	0	dep	_	_
+6	hua	hua	NOUN	_	_	0	dep	_	_
+7	kukui	kukui	NOUN	_	_	0	dep	_	_
+8	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 10
+# text = ‘Ekahi, ‘elua, ‘ekolu, ‘ehā, ‘elima mau hua kukui = One, two, three, four, five kukui nuts
+1	ʻEkahi	ʻEkahi	NUM	_	_	0	dep	_	_
+2	,	,	PUNCT	_	_	0	dep	_	_
+3	ʻelua	ʻelua	NUM	_	_	0	dep	_	_
+4	,	,	PUNCT	_	_	0	dep	_	_
+5	ʻekolu	ʻekolu	NUM	_	_	0	dep	_	_
+6	,	,	PUNCT	_	_	0	dep	_	_
+7	ʻehā	ʻehā	NUM	_	_	0	dep	_	_
+8	,	,	PUNCT	_	_	0	dep	_	_
+9	ʻelima	ʻelima	NUM	_	_	0	dep	_	_
+10	mau	mau	PART	_	_	0	dep	_	_
+11	hua	hua	NOUN	_	_	0	dep	_	_
+12	kukui	kukui	NOUN	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 11
+# text = ‘Eono, ‘ehiku, ‘ewalu kukui = Six, seven, eight kukui
+1	ʻEono	ʻEono	NUM	_	_	0	dep	_	_
+2	,	,	PUNCT	_	_	0	dep	_	_
+3	ʻehiku	ʻehiku	NUM	_	_	0	dep	_	_
+4	,	,	PUNCT	_	_	0	dep	_	_
+5	ʻewalu	ʻewalu	NUM	_	_	0	dep	_	_
+6	kukui	kukui	NOUN	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 12
+# text = Wā pā‘ani = Recess time
+1	Wā	Wā	NOUN	_	_	0	dep	_	_
+2	pāʻani	pāʻani	NOUN	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 13
+# text = E nānā mai ia‘u e pi‘i i luna. = Look at me climb.
+1	E	E	PART	_	_	0	dep	_	_
+2	nānā	nānā	VERB	_	_	0	dep	_	_
+3	mai	mai	PART	_	_	0	dep	_	_
+4	iaʻu	au	NOUN	_	_	0	dep	_	_
+5	e	e	PART	_	_	0	dep	_	_
+6	piʻi	piʻi	VERB	_	_	0	dep	_	_
+7	i	i	ADP	_	_	0	dep	_	_
+8	luna	luna	ADV	_	_	0	dep	_	_
+9	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 14
+# text = Hiki ‘ole iā ‘oe ke ki‘i mai ia‘u. = You can't catch me.
+1	Hiki	Hiki	VERB	_	_	0	dep	_	_
+2	ʻole	ʻole	ADV	_	_	0	dep	_	_
+3	iā	iā	PRON	_	_	0	dep	_	_
+4	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+5	ke	ke	DET	_	_	0	dep	_	_
+6	kiʻi	kiʻi	VERB	_	_	0	dep	_	_
+7	mai	mai	PRON	_	_	0	dep	_	_
+8	iaʻu	au	PRON	_	_	0	dep	_	_
+9	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 15
+# text = ‘A‘ole hiki ho‘i iā ‘oe ke ki‘i mai ia‘u. = You still can't catch me.
+1	ʻAʻole	ʻAʻole	INTJ	_	_	0	dep	_	_
+2	hiki	hiki	VERB	_	_	0	dep	_	_
+3	hoʻi	hoʻi	PART	_	_	0	dep	_	_
+4	iā	iā	PRON	_	_	0	dep	_	_
+5	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+6	ke	ke	DET	_	_	0	dep	_	_
+7	kiʻi	kiʻi	VERB	_	_	0	dep	_	_
+8	mai	mai	PRON	_	_	0	dep	_	_
+9	iaʻu	aʻu	PRON	_	_	0	dep	_	_
+10	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 16
+# text = A‘o ‘o Makana ma ka lolo uila. = Makana knows how to learn with the computer.
+1	Aʻo	Aʻo	VERB	_	_	0	dep	_	_
+2	ʻo	ʻo	PART	_	_	0	dep	_	_
+3	Makana	Makana	PROPN	_	_	0	dep	_	_
+4	ma	ma	ADP	_	_	0	dep	_	_
+5	ka	ka	NOUN	_	_	0	dep	_	_
+6	lolo	lolo	NOUN	_	_	0	dep	_	_
+7	uila	uila	ADJ	_	_	0	dep	_	_
+8	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 17
+# text = Kaomi aku i ka ‘iole. = Click on the mouse.
+1	Kaomi	Kaomi	VERB	_	_	0	dep	_	_
+2	aku	aku	PART	_	_	0	dep	_	_
+3	i	i	PART	_	_	0	dep	_	_
+4	ka	ka	ADJ	_	_	0	dep	_	_
+5	ʻiole	ʻiole	NOUN	_	_	0	dep	_	_
+6	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 18
+# text = Wā palaka = Block time
+1	Wā	Wā	NOUN	_	_	0	dep	_	_
+2	palaka	palaka	NOUN	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 19
+# text = ‘Ane‘ane ka ‘aina awakea. = It is almost lunch time.
+1	ʻAneʻane	ʻAneʻane	ADV	_	_	0	dep	_	_
+2	ka	ka	DET	_	_	0	dep	_	_
+3	ʻaina	ʻaina	NOUN	_	_	0	dep	_	_
+4	awakea	awakea	NOUN	_	_	0	dep	_	_
+5	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 20
+# text = Noi mai ‘o Makana, “Aia he poi no ka ‘aina awakea?” = Makana asks, "Is there any poi for lunch?""
+1	Noi	Noi	ADV	_	_	0	dep	_	_
+2	mai	mai	ADP	_	_	0	dep	_	_
+3	ʻo	ʻo	PART	_	_	0	dep	_	_
+4	Makana	Makana	PROPN	_	_	0	dep	_	_
+5	,	,	PUNCT	_	_	0	dep	_	_
+6	“	“	PUNCT	_	_	0	dep	_	_
+7	Aia	Aia	PRON	_	_	0	dep	_	_
+8	he	he	DET	_	_	0	dep	_	_
+9	poi	poi	PROPN	_	_	0	dep	_	_
+10	no	no	ADP	_	_	0	dep	_	_
+11	ka	ka	DET	_	_	0	dep	_	_
+12	ʻaina	ʻaina	NOUN	_	_	0	dep	_	_
+13	awakea	awakea	NOUN	_	_	0	dep	_	_
+14	?	?	PUNCT	_	_	0	dep	_	_
+15	”	”	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 21
+# text = Ma hope o ka ‘aina ‘awakea, pā‘ani ‘o Makana me nā nane ʻāpana. = After lunch, Makana plays with puzzles.
+1	Ma	Ma	DET	_	_	0	dep	_	_
+2	hope	hope	DET	_	_	0	dep	_	_
+3	o	o	PRON	_	_	0	dep	_	_
+4	ka	ka	DET	_	_	0	dep	_	_
+5	ʻaina	ʻaina	NOUN	_	_	0	dep	_	_
+6	ʻawakea	ʻawakea	NOUN	_	_	0	dep	_	_
+7	,	,	PUNCT	_	_	0	dep	_	_
+8	pāʻani	pāʻani	VERB	_	_	0	dep	_	_
+9	ʻo	ʻo	PRON	_	_	0	dep	_	_
+10	Makana	Makana	PROPN	_	_	0	dep	_	_
+11	me	me	CCONJ	_	_	0	dep	_	_
+12	nā	nā	VERB	_	_	0	dep	_	_
+13	nane	nane	NOUN	_	_	0	dep	_	_
+14	ʻāpana	ʻāpana	NOUN	_	_	0	dep	_	_
+15	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 22
+# text = E nānā mai i ka‘u honu ‘u‘uku. = Look at my little honu.
+1	E	E	PART	_	_	0	dep	_	_
+2	nānā	nānā	VERB	_	_	0	dep	_	_
+3	mai	mai	VERB	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	kaʻu	kaʻu	PRON	_	_	0	dep	_	_
+6	honu	honu	NOUN	_	_	0	dep	_	_
+7	ʻuʻuku	ʻuʻuku	ADJ	_	_	0	dep	_	_
+8	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 23
+# text = “He honu ‘u‘uku ka‘u...” = I have a little honu.
+1	“	“	PUNCT	_	_	0	dep	_	_
+2	He	He	VERB	_	_	0	dep	_	_
+3	honu	honu	NOUN	_	_	0	dep	_	_
+4	ʻuʻuku	ʻuʻuku	ADJ	_	_	0	dep	_	_
+5	kaʻu	kaʻu	PRON	_	_	0	dep	_	_
+6	.	.	PUNCT	_	_	0	dep	_	_
+7	.	.	PUNCT	_	_	0	dep	_	_
+8	.	.	PUNCT	_	_	0	dep	_	_
+9	”	”	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 24
+# text = “Holo aku ‘elima mau honu ‘u‘uku e pā‘ani. = Five little honu went out to play.
+1	“	“	PUNCT	_	_	0	dep	_	_
+2	Holo	Holo	VERB	_	_	0	dep	_	_
+3	aku	aku	VERB	_	_	0	dep	_	_
+4	ʻelima	ʻelima	NUM	_	_	0	dep	_	_
+5	mau	mau	PART	_	_	0	dep	_	_
+6	honu	honu	NOUN	_	_	0	dep	_	_
+7	ʻuʻuku	ʻuʻuku	ADJ	_	_	0	dep	_	_
+8	e	e	PART	_	_	0	dep	_	_
+9	pāʻani	pāʻani	VERB	_	_	0	dep	_	_
+10	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 25
+# text = Holo aku, holo aku ma ‘ō aku nō...” = Swimming, swimming, far away..."
+1	Holo	Holo	VERB	_	_	0	dep	_	_
+2	aku	aku	VERB	_	_	0	dep	_	_
+3	,	,	PUNCT	_	_	0	dep	_	_
+4	holo	holo	VERB	_	_	0	dep	_	_
+5	aku	aku	VERB	_	_	0	dep	_	_
+6	ma	ma	ADP	_	_	0	dep	_	_
+7	ʻō	ʻō	NOUN	_	_	0	dep	_	_
+8	aku	aku	VERB	_	_	0	dep	_	_
+9	nō	nō	ADV	_	_	0	dep	_	_
+10	.	.	PUNCT	_	_	0	dep	_	_
+11	.	.	PUNCT	_	_	0	dep	_	_
+12	.	.	PUNCT	_	_	0	dep	_	_
+13	”	”	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 26
+# text = E nānā, ua loaʻa nā palewāwae ia‘u. = Look, I found my slippers.
+1	E	E	PART	_	_	0	dep	_	_
+2	nānā	nānā	VERB	_	_	0	dep	_	_
+3	,	,	PUNCT	_	_	0	dep	_	_
+4	ua	ua	PART	_	_	0	dep	_	_
+5	loaʻa	loaʻa	VERB	_	_	0	dep	_	_
+6	nā	nā	DET	_	_	0	dep	_	_
+7	palewāwae	palewāwae	NOUN	_	_	0	dep	_	_
+8	iaʻu	iaʻu	PRON	_	_	0	dep	_	_
+9	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 27
+# text = Wāwae hema, Wāwae ʻākau = Left foot, Right foot
+1	Wāwae	Wāwae	NOUN	_	_	0	dep	_	_
+2	hema	hema	ADJ	_	_	0	dep	_	_
+3	,	,	PUNCT	_	_	0	dep	_	_
+4	Wāwae	Wāwae	NOUN	_	_	0	dep	_	_
+5	ʻākau	ʻākau	ADJ	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 28
+# text = ʻAneʻane pau ke kula. = School is almost over.
+1	ʻAneʻane	ʻAneʻane	ADV	_	_	0	dep	_	_
+2	pau	pau	VERB	_	_	0	dep	_	_
+3	ke	ke	DET	_	_	0	dep	_	_
+4	kula	kula	NOUN	_	_	0	dep	_	_
+5	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 29
+# text = Kali ʻo Makana i ke kaʻa ʻōhua me Mahina. = Makana waits for the bus with Mahina.
+1	Kali	Kali	VERB	_	_	0	dep	_	_
+2	ʻo	ʻo	PART	_	_	0	dep	_	_
+3	Makana	Makana	PROPN	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	ke	ke	DET	_	_	0	dep	_	_
+6	kaʻa	kaʻa	NOUN	_	_	0	dep	_	_
+7	ʻōhua	ʻōhua	PUNCT	_	_	0	dep	_	_
+8	me	me	ADP	_	_	0	dep	_	_
+9	Mahina	Mahina	PROPN	_	_	0	dep	_	_
+10	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 30
+# text = ʻŌlelo mai ʻo Mahina, “E hoʻopaʻa i koʻu lima.” = "Hold my hand," says Mahina.
+1	ʻŌlelo	ʻŌlelo	VERB	_	_	0	dep	_	_
+2	mai	mai	PART	_	_	0	dep	_	_
+3	ʻo	ʻo	PART	_	_	0	dep	_	_
+4	Mahina	Mahina	PROPN	_	_	0	dep	_	_
+5	,	,	PUNCT	_	_	0	dep	_	_
+6	“	“	PUNCT	_	_	0	dep	_	_
+7	E	E	PART	_	_	0	dep	_	_
+8	hoʻopaʻa	hoʻopaʻa	VERB	_	_	0	dep	_	_
+9	i	i	PART	_	_	0	dep	_	_
+10	koʻu	koʻu	ADJ	_	_	0	dep	_	_
+11	lima	lima	NOUN	_	_	0	dep	_	_
+12	.	.	PUNCT	_	_	0	dep	_	_
+13	”	”	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 31
+# text = “He hoa ʻoe noʻu,” pane akula ʻo Makana. = "You are my friend," says Makana.
+1	“	“	PUNCT	_	_	0	dep	_	_
+2	He	He	DET	_	_	0	dep	_	_
+3	hoa	hoa	NOUN	_	_	0	dep	_	_
+4	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+5	noʻu	noʻu	NOUN	_	_	0	dep	_	_
+6	,	,	PUNCT	_	_	0	dep	_	_
+7	”	”	PUNCT	_	_	0	dep	_	_
+8	pane	pane	VERB	_	_	0	dep	_	_
+9	akula	akula	PART	_	_	0	dep	_	_
+10	ʻo	ʻo	PART	_	_	0	dep	_	_
+11	Makana	Makana	PROPN	_	_	0	dep	_	_
+12	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 32
+# text = Aloha. A hui hou kākou. = Goodbye. Until we meet again.
+1	Aloha	Aloha	INTJ	_	_	0	dep	_	_
+2	.	.	PUNCT	_	_	0	dep	_	_
+3	A	A	ADP	_	_	0	dep	_	_
+4	hui	hui	VERB	_	_	0	dep	_	_
+5	hou	hou	INTJ	_	_	0	dep	_	_
+6	kākou	kākou	PRON	_	_	0	dep	_	_
+7	.	.	PUNCT	_	_	0	dep	_	_

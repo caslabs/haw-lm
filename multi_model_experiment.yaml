@@ -1,0 +1,142 @@
+experiments:
+
+  # Traditional Baseline
+  - name: tfidf+LogisticRegression
+    # Model Configuration
+    model_name: tfidf+LogisticRegression
+    model_type: tfidf
+    checkpoint_path: model_out/tfidf
+    pos_output_dir: model_out/pos_tfidf
+
+    # Data Configuration
+    corpus_data_name: "kahupuke_dataset"
+    corpus_data_clean: ["remove_numbers"]
+    data_size: 1
+    pos_data_name: "pos_dataset"
+
+
+    # Seed
+    seed: 42
+
+    # TF-IDF Hyperparams for Optuna Search
+    search: true
+
+    tfidf_max_features: 1000
+    tfidf_min_df: 2
+    tfidf_max_df: 0.9
+    n_trials: 20
+
+
+    # Optional Tooling Support
+    feature_flags:
+      notifications: { discord_enabled: true }
+      devtools:       { repl_enabled: false }
+
+  - name: word2vec+LTSM
+    model_type: word2vec
+    checkpoint_path: model_out/w2v
+    pos_output_dir: model_out/pos_w2v
+    data_size: 1
+
+    # Word2Vec params
+    vector_size: 100
+    window: 5
+    min_count: 2
+    sg: 1
+    negative: 5
+    epochs: 10
+
+    seed: 42
+    search: true
+
+    feature_flags:
+      notifications: { discord_enabled: true }
+      devtools: { repl_enabled: false }
+
+
+  - name: distilbert
+    search: true
+    model_type: distilbert
+    model_name: distilbert-base-multilingual-cased
+    checkpoint_path: quick-haw-mlm/checkpoint-300
+    pos_output_dir: model_out/pos_distil
+    train_from_scratch: false
+
+
+    # Data Configuration
+    corpus_data_name: "kahupuke_dataset"
+    corpus_data_clean: ["remove_numbers"]
+    data_size: 1
+
+    tokenizer_path: ""
+
+    max_length: 128
+    learning_rate: 5e-5
+    batch_size: 32
+    num_epochs: 3
+    max_steps: 2000
+    mlm_probability: 0.15
+    train_split: 0.95
+    seed: 42
+    ignore_label: -100
+    pos_model_dir: model_out/pos_distil
+
+    feature_flags:
+      notifications: { discord_enabled: true }
+      devtools:       { repl_enabled: false }
+
+
+  - name: olelo-minibert
+    model_type: bert
+    model_name: olelo-minibert
+    train_from_scratch: true
+    search: true
+
+    # ─── data configuration ──────────────────────────────
+    corpus_data_name:  "kahupuke_dataset"     # ID of raw Hawaiian corpus
+    corpus_data_clean: ["remove_numbers"]     # basic cleaning rules
+    data_size:        1                       # use entire corpus
+    pos_data_name:    "pos_dataset"           # POS-tagged subset
+    train_split:      0.9
+    seed:             1337
+
+    # ─── tokenizer ────────────────────────────────────────
+    tokenizer_type:    wordpiece    # choose:  wordpiece  |  byte_bpe
+    tokenizer_output:  tokenizer/olelo-minibert
+    vocab_size:        16000        # smaller vocab ⇒ higher token freq
+    min_freq:          2
+    character_coverage: 1.0         # keep ʻokina + macrons intact
+    lowercase:         true
+    max_length:        128
+
+    # ─── model architecture (Mini-BERT) ─────────────────
+    hidden_size:         256
+    num_hidden_layers:   8
+    num_attention_heads: 4
+    intermediate_size:   1024
+    max_position_embeddings: 128
+    mlm_probability:     0.15
+
+    # ─── pre-training hyper-parameters ──────────────────
+    batch_size:        32
+    total_epochs:      30
+    learning_rate:     1.0e-4
+    lr_scheduler:      linear_warmup_decay
+    warmup_steps:      1000
+    weight_decay:      0.01
+    fp16:              true                  # leverages A6000 tensor cores
+    logging_steps:     50
+    evaluation_strategy: epoch
+    #max_steps:         null                  # epochs, not steps, control runtime
+
+    # ─── POS fine-tuning ────────────────────────────────
+    ignore_label:      -100                  # mask sub-tokens in loss
+    pos_batch_size:    32
+    pos_learning_rate: 3.0e-5
+    pos_num_epochs:    5
+    pos_eval_strategy: epoch
+
+    # ─── feature flags ──────────────────────────────────
+    feature_flags:
+      notifications: { discord_enabled: true }
+      devtools:      { repl_enabled: false }

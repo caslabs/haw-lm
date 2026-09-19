@@ -1,0 +1,7 @@
+Aloha,INTJ
+wau,PRON
+i,ADP
+ka,DET
+ʻōlelo,NOUN
+Hawaiʻi,PROPN
+.,PUNCT

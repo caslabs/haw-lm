@@ -1,0 +1,662 @@
+# sent_id = 1
+# text = 1. He lumi hou ko ka hale = The new room of the house
+1	He	He	DET	_	_	0	dep	_	_
+2	lumi	lumi	NOUN	_	_	0	dep	_	_
+3	hou	hou	ADJ	_	_	0	dep	_	_
+4	ko	ko	ADP	_	_	0	dep	_	_
+5	ka	ka	DET	_	_	0	dep	_	_
+6	hale	hale	NOUN	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 2
+# text = 2. Ua nui ko Kimo hauʻoli i ka lohe ʻana e pili ana i ka pēpē hou. = Kimo was so happy when he heard about the new baby.
+1	Ua	Ua	PART	_	_	0	dep	_	_
+2	nui	nui	ADJ	_	_	0	dep	_	_
+3	ko	ko	ADP	_	_	0	dep	_	_
+4	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+5	hauʻoli	hauʻoli	NOUN	_	_	0	dep	_	_
+6	i	i	ADP	_	_	0	dep	_	_
+7	ka	ka	DET	_	_	0	dep	_	_
+8	lohe	lohe	VERB	_	_	0	dep	_	_
+9	ʻana	ʻana	AUX	_	_	0	dep	_	_
+10	e	e	ADP	_	_	0	dep	_	_
+11	pili	pili	ADP	_	_	0	dep	_	_
+12	ana	ana	ADP	_	_	0	dep	_	_
+13	i	i	ADP	_	_	0	dep	_	_
+14	ka	ka	DET	_	_	0	dep	_	_
+15	pēpē	pēpē	NOUN	_	_	0	dep	_	_
+16	hou	hou	ADJ	_	_	0	dep	_	_
+17	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 3
+# text = 3. ʻO Kimo ke keiki hoʻokahi o ka ʻohana Komohale, a kokoke e piha ʻelima makahiki iā ia i kēia wā. = Kimo is the only child in the Komohale family, and he is almost five years old now.
+1	ʻO	ʻO	PART	_	_	0	dep	_	_
+2	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+3	ke	ke	DET	_	_	0	dep	_	_
+4	keiki	keiki	NOUN	_	_	0	dep	_	_
+5	hoʻokahi	hoʻokahi	ADJ	_	_	0	dep	_	_
+6	o	o	ADP	_	_	0	dep	_	_
+7	ka	ka	DET	_	_	0	dep	_	_
+8	ʻohana	ʻohana	NOUN	_	_	0	dep	_	_
+9	Komohale	Komohale	PROPN	_	_	0	dep	_	_
+10	,	,	PUNCT	_	_	0	dep	_	_
+11	a	a	CCONJ	_	_	0	dep	_	_
+12	kokoke	kokoke	ADV	_	_	0	dep	_	_
+13	e	e	AUX	_	_	0	dep	_	_
+14	piha	piha	ADJ	_	_	0	dep	_	_
+15	ʻelima	ʻelima	NUM	_	_	0	dep	_	_
+16	makahiki	makahiki	NOUN	_	_	0	dep	_	_
+17	iā	iā	PART	_	_	0	dep	_	_
+18	ia	ia	PRON	_	_	0	dep	_	_
+19	i	i	ADP	_	_	0	dep	_	_
+20	kēia	kēia	DET	_	_	0	dep	_	_
+21	wā	wā	NOUN	_	_	0	dep	_	_
+22	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 4
+# text = 4. Akā naʻe, i nehinei nō i haʻi mai ai kona māmā a me kona pāpā iā ia e loaʻa ana he pēpē hou ma ka ʻohana. = But just yesterday his mother and father told him that their family is going to have a new baby.
+1	Akā	Akā	CCONJ	_	_	0	dep	_	_
+2	naʻe	naʻe	CCONJ	_	_	0	dep	_	_
+3	,	,	PUNCT	_	_	0	dep	_	_
+4	i	i	ADP	_	_	0	dep	_	_
+5	nehinei	nehinei	NOUN	_	_	0	dep	_	_
+6	nō	nō	ADV	_	_	0	dep	_	_
+7	i	i	AUX	_	_	0	dep	_	_
+8	haʻi	haʻi	VERB	_	_	0	dep	_	_
+9	mai	mai	ADV	_	_	0	dep	_	_
+10	ai	ai	AUX	_	_	0	dep	_	_
+11	kona	kona	DET	_	_	0	dep	_	_
+12	māmā	māmā	NOUN	_	_	0	dep	_	_
+13	a	a	CCONJ	_	_	0	dep	_	_
+14	me	me	CCONJ	_	_	0	dep	_	_
+15	kona	kona	DET	_	_	0	dep	_	_
+16	pāpā	pāpā	NOUN	_	_	0	dep	_	_
+17	iā	iā	PART	_	_	0	dep	_	_
+18	ia	ia	PRON	_	_	0	dep	_	_
+19	e	e	AUX	_	_	0	dep	_	_
+20	loaʻa	loaʻa	VERB	_	_	0	dep	_	_
+21	ana	ana	AUX	_	_	0	dep	_	_
+22	he	he	DET	_	_	0	dep	_	_
+23	pēpē	pēpē	NOUN	_	_	0	dep	_	_
+24	hou	hou	ADJ	_	_	0	dep	_	_
+25	ma	ma	ADP	_	_	0	dep	_	_
+26	ka	ka	DET	_	_	0	dep	_	_
+27	ʻohana	ʻohana	NOUN	_	_	0	dep	_	_
+28	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 5
+# text = 5. Hoʻokahi wale nō naʻe pilikia o ka ʻohana Komohale. = The Komohale family, however, has one problem.
+1	Hoʻokahi	Hoʻokahi	NUM	_	_	0	dep	_	_
+2	wale	wale	ADV	_	_	0	dep	_	_
+3	nō	nō	ADV	_	_	0	dep	_	_
+4	naʻe	naʻe	CCONJ	_	_	0	dep	_	_
+5	pilikia	pilikia	NOUN	_	_	0	dep	_	_
+6	o	o	ADP	_	_	0	dep	_	_
+7	ka	ka	DET	_	_	0	dep	_	_
+8	ʻohana	ʻohana	NOUN	_	_	0	dep	_	_
+9	Komohale	Komohale	NOUN	_	_	0	dep	_	_
+10	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 6
+# text = 6. Ua liʻiliʻi loa ko lākou hale, a makemake lākou e pākuʻi i lumi moe hou no ka pēpē. = Their house is very small and they want to add on a new bedroom for the baby.
+1	Ua	Ua	AUX	_	_	0	dep	_	_
+2	liʻiliʻi	liʻiliʻi	ADJ	_	_	0	dep	_	_
+3	loa	loa	ADV	_	_	0	dep	_	_
+4	ko	ko	ADP	_	_	0	dep	_	_
+5	lākou	lākou	PRON	_	_	0	dep	_	_
+6	hale	hale	NOUN	_	_	0	dep	_	_
+7	,	,	PUNCT	_	_	0	dep	_	_
+8	a	a	CCONJ	_	_	0	dep	_	_
+9	makemake	makemake	VERB	_	_	0	dep	_	_
+10	lākou	lākou	PRON	_	_	0	dep	_	_
+11	e	e	AUX	_	_	0	dep	_	_
+12	pākuʻi	pākuʻi	VERB	_	_	0	dep	_	_
+13	i	i	PART	_	_	0	dep	_	_
+14	lumi	lumi	NOUN	_	_	0	dep	_	_
+15	moe	moe	NOUN	_	_	0	dep	_	_
+16	hou	hou	ADJ	_	_	0	dep	_	_
+17	no	no	ADP	_	_	0	dep	_	_
+18	ka	ka	DET	_	_	0	dep	_	_
+19	pēpē	pēpē	NOUN	_	_	0	dep	_	_
+20	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 7
+# text = 7. "E Pāpā, na wai e kūkulu ana i ka lumi moe hou?" i nīnau ai ʻo Kimo. = "Papa, who is going to build the new bedroom?" asked Kimo.
+1		_	X	_	_	0	dep	_	_
+2	E	E	PART	_	_	0	dep	_	_
+3	Pāpā	Pāpā	NOUN	_	_	0	dep	_	_
+4	,	,	PUNCT	_	_	0	dep	_	_
+5	na	na	ADP	_	_	0	dep	_	_
+6	wai	wai	PRON	_	_	0	dep	_	_
+7	e	e	AUX	_	_	0	dep	_	_
+8	kūkulu	kūkulu	VERB	_	_	0	dep	_	_
+9	ana	ana	AUX	_	_	0	dep	_	_
+10	i	i	PART	_	_	0	dep	_	_
+11	ka	ka	DET	_	_	0	dep	_	_
+12	lumi	lumi	NOUN	_	_	0	dep	_	_
+13	moe	moe	NOUN	_	_	0	dep	_	_
+14	hou	hou	ADJ	_	_	0	dep	_	_
+15	?	?	PUNCT	_	_	0	dep	_	_
+16		_	PUNCT	_	_	0	dep	_	_
+17	i	i	AUX	_	_	0	dep	_	_
+18	nīnau	nīnau	VERB	_	_	0	dep	_	_
+19	ai	ai	AUX	_	_	0	dep	_	_
+20	ʻo	ʻo	PART	_	_	0	dep	_	_
+21	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+22	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 8
+# text = 8. "E kelepona wau iā ʻAnakala Kālai i kēia ahiahi. = "I'll phone Uncle Kālai this evening.
+1		_	X	_	_	0	dep	_	_
+2	E	E	AUX	_	_	0	dep	_	_
+3	kelepona	kelepona	VERB	_	_	0	dep	_	_
+4	wau	wau	PRON	_	_	0	dep	_	_
+5	iā	iā	PART	_	_	0	dep	_	_
+6	ʻAnakala	ʻAnakala	PROPN	_	_	0	dep	_	_
+7	Kālai	Kālai	PROPN	_	_	0	dep	_	_
+8	i	i	ADP	_	_	0	dep	_	_
+9	kēia	kēia	DET	_	_	0	dep	_	_
+10	ahiahi	ahiahi	NOUN	_	_	0	dep	_	_
+11	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 9
+# text = 9. Hiki paha iā ia ke kōkua iā kākou, no ka mea, he kamanā maikaʻi loa ʻo ia." = Maybe he can help us, because he's a very good carpenter."
+1	Hiki	Hiki	AUX	_	_	0	dep	_	_
+2	paha	paha	ADV	_	_	0	dep	_	_
+3	iā	iā	PART	_	_	0	dep	_	_
+4	ia	ia	PRON	_	_	0	dep	_	_
+5	ke	ke	AUX	_	_	0	dep	_	_
+6	kōkua	kōkua	VERB	_	_	0	dep	_	_
+7	iā	iā	PART	_	_	0	dep	_	_
+8	kākou	kākou	PRON	_	_	0	dep	_	_
+9	,	,	PUNCT	_	_	0	dep	_	_
+10	no	no	CCONJ	_	_	0	dep	_	_
+11	ka	ka	CCONJ	_	_	0	dep	_	_
+12	mea	mea	CCONJ	_	_	0	dep	_	_
+13	,	,	PUNCT	_	_	0	dep	_	_
+14	he	he	DET	_	_	0	dep	_	_
+15	kamanā	kamanā	NOUN	_	_	0	dep	_	_
+16	maikaʻi	maikaʻi	ADJ	_	_	0	dep	_	_
+17	loa	loa	ADV	_	_	0	dep	_	_
+18	ʻo	ʻo	PART	_	_	0	dep	_	_
+19	ia	ia	PRON	_	_	0	dep	_	_
+20	.	.	PUNCT	_	_	0	dep	_	_
+21		_	X	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 10
+# text = 10. "He aha ka hana a ke kamanā?" i nīnau ai ʻo Kimo. = "What does a carpenter do?" asked Kimo.
+1		_	X	_	_	0	dep	_	_
+2	He	He	DET	_	_	0	dep	_	_
+3	aha	aha	PRON	_	_	0	dep	_	_
+4	ka	ka	DET	_	_	0	dep	_	_
+5	hana	hana	NOUN	_	_	0	dep	_	_
+6	a	a	ADP	_	_	0	dep	_	_
+7	ke	ke	DET	_	_	0	dep	_	_
+8	kamanā	kamanā	NOUN	_	_	0	dep	_	_
+9	?	?	PUNCT	_	_	0	dep	_	_
+10		_	PUNCT	_	_	0	dep	_	_
+11	i	i	PART	_	_	0	dep	_	_
+12	nīnau	nīnau	VERB	_	_	0	dep	_	_
+13	ai	ai	PART	_	_	0	dep	_	_
+14	ʻo	ʻo	PART	_	_	0	dep	_	_
+15	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+16	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 11
+# text = 11. "He kanaka kūkulu hale ʻo ia," i pane aku ai ko Kimo pāpā. = "He's a person who builds houses," answered Kimo's father.
+1		_	X	_	_	0	dep	_	_
+2	He	He	DET	_	_	0	dep	_	_
+3	kanaka	kanaka	NOUN	_	_	0	dep	_	_
+4	kūkulu	kūkulu	VERB	_	_	0	dep	_	_
+5	hale	hale	NOUN	_	_	0	dep	_	_
+6	ʻo	ʻo	PART	_	_	0	dep	_	_
+7	ia	ia	PRON	_	_	0	dep	_	_
+8	,	,	PUNCT	_	_	0	dep	_	_
+9		_	X	_	_	0	dep	_	_
+10	i	i	AUX	_	_	0	dep	_	_
+11	pane	pane	VERB	_	_	0	dep	_	_
+12	aku	aku	ADV	_	_	0	dep	_	_
+13	ai	ai	AUX	_	_	0	dep	_	_
+14	ko	ko	ADP	_	_	0	dep	_	_
+15	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+16	pāpā	pāpā	NOUN	_	_	0	dep	_	_
+17	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 12
+# text = 12. "A kokoke e paʻa ka hale āna e kūkulu nei." = And Uncle Kālai is almost done with the house he is building."
+1		_	X	_	_	0	dep	_	_
+2	A	A	CCONJ	_	_	0	dep	_	_
+3	kokoke	kokoke	ADV	_	_	0	dep	_	_
+4	e	e	PART	_	_	0	dep	_	_
+5	paʻa	paʻa	ADJ	_	_	0	dep	_	_
+6	ka	ka	DET	_	_	0	dep	_	_
+7	hale	hale	NOUN	_	_	0	dep	_	_
+8	āna	āna	ADJ	_	_	0	dep	_	_
+9	e	e	AUX	_	_	0	dep	_	_
+10	kūkulu	kūkulu	VERB	_	_	0	dep	_	_
+11	nei	nei	AUX	_	_	0	dep	_	_
+12	.	.	PUNCT	_	_	0	dep	_	_
+13		_	X	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 13
+# text = 13. Ua kāhea ko Kimo pāpā iā ʻAnakala Kālai, a ʻae maila ʻo ia e kōkua mai iā lākou. = Kimo's father called Uncle Kālai, and he agreed to help them.
+1	Ua	Ua	AUX	_	_	0	dep	_	_
+2	kāhea	kāhea	VERB	_	_	0	dep	_	_
+3	ko	ko	ADP	_	_	0	dep	_	_
+4	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+5	pāpā	pāpā	NOUN	_	_	0	dep	_	_
+6	iā	iā	PART	_	_	0	dep	_	_
+7	ʻAnakala	ʻAnakala	PROPN	_	_	0	dep	_	_
+8	Kālai	Kālai	PROPN	_	_	0	dep	_	_
+9	,	,	PUNCT	_	_	0	dep	_	_
+10	a	a	CCONJ	_	_	0	dep	_	_
+11	ʻae	ʻae	VERB	_	_	0	dep	_	_
+12	maila	maila	ADV	_	_	0	dep	_	_
+13	ʻo	ʻo	PART	_	_	0	dep	_	_
+14	ia	ia	PRON	_	_	0	dep	_	_
+15	e	e	AUX	_	_	0	dep	_	_
+16	kōkua	kōkua	VERB	_	_	0	dep	_	_
+17	mai	mai	ADV	_	_	0	dep	_	_
+18	iā	iā	PART	_	_	0	dep	_	_
+19	lākou	lākou	PRON	_	_	0	dep	_	_
+20	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 14
+# text = 14. No laila, ua hele ʻo Kimo me kona pāpā i ka hale kūʻai papa lāʻau e ʻoka aku ai i nā papa lāʻau a me nā kui no ke kūkulu ʻana i ka lumi hou. = So Kimo and his father went to the lumber store to order the lumber and nails to build the new room.
+1	No	No	CCONJ	_	_	0	dep	_	_
+2	laila	laila	CCONJ	_	_	0	dep	_	_
+3	,	,	PUNCT	_	_	0	dep	_	_
+4	ua	ua	AUX	_	_	0	dep	_	_
+5	hele	hele	VERB	_	_	0	dep	_	_
+6	ʻo	ʻo	PART	_	_	0	dep	_	_
+7	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+8	me	me	ADP	_	_	0	dep	_	_
+9	kona	kona	DET	_	_	0	dep	_	_
+10	pāpā	pāpā	NOUN	_	_	0	dep	_	_
+11	i	i	PART	_	_	0	dep	_	_
+12	ka	ka	DET	_	_	0	dep	_	_
+13	hale	hale	NOUN	_	_	0	dep	_	_
+14	kūʻai	kūʻai	VERB	_	_	0	dep	_	_
+15	papa	papa	NOUN	_	_	0	dep	_	_
+16	lāʻau	lāʻau	NOUN	_	_	0	dep	_	_
+17	e	e	AUX	_	_	0	dep	_	_
+18	ʻoka	ʻoka	VERB	_	_	0	dep	_	_
+19	aku	aku	ADV	_	_	0	dep	_	_
+20	ai	ai	AUX	_	_	0	dep	_	_
+21	i	i	PART	_	_	0	dep	_	_
+22	nā	nā	DET	_	_	0	dep	_	_
+23	papa	papa	NOUN	_	_	0	dep	_	_
+24	lāʻau	lāʻau	NOUN	_	_	0	dep	_	_
+25	a	a	CCONJ	_	_	0	dep	_	_
+26	me	me	CCONJ	_	_	0	dep	_	_
+27	nā	nā	DET	_	_	0	dep	_	_
+28	kui	kui	NOUN	_	_	0	dep	_	_
+29	no	no	ADP	_	_	0	dep	_	_
+30	ke	ke	DET	_	_	0	dep	_	_
+31	kūkulu	kūkulu	VERB	_	_	0	dep	_	_
+32	ʻana	ʻana	AUX	_	_	0	dep	_	_
+33	i	i	PART	_	_	0	dep	_	_
+34	ka	ka	DET	_	_	0	dep	_	_
+35	lumi	lumi	NOUN	_	_	0	dep	_	_
+36	hou	hou	ADJ	_	_	0	dep	_	_
+37	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 15
+# text = 15. I ia Poʻaono aʻe, ua ala ʻo Kimo i ke kakahiaka nui no ka nui o kona pīhoihoi. = The next Saturday, Kimo woke up early in the morning because he was so excited.
+1	I	I	ADP	_	_	0	dep	_	_
+2	ia	ia	DET	_	_	0	dep	_	_
+3	Poʻaono	Poʻaono	PROPN	_	_	0	dep	_	_
+4	aʻe	aʻe	ADJ	_	_	0	dep	_	_
+5	,	,	PUNCT	_	_	0	dep	_	_
+6	ua	ua	AUX	_	_	0	dep	_	_
+7	ala	ala	VERB	_	_	0	dep	_	_
+8	ʻo	ʻo	PART	_	_	0	dep	_	_
+9	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+10	i	i	ADP	_	_	0	dep	_	_
+11	ke	ke	DET	_	_	0	dep	_	_
+12	kakahiaka	kakahiaka	NOUN	_	_	0	dep	_	_
+13	nui	nui	ADJ	_	_	0	dep	_	_
+14	no	no	ADP	_	_	0	dep	_	_
+15	ka	ka	DET	_	_	0	dep	_	_
+16	nui	nui	NOUN	_	_	0	dep	_	_
+17	o	o	ADP	_	_	0	dep	_	_
+18	kona	kona	DET	_	_	0	dep	_	_
+19	pīhoihoi	pīhoihoi	NOUN	_	_	0	dep	_	_
+20	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 16
+# text = 16. I ka hōʻea ʻana mai o ʻAnakala Kālai, hea akula ʻo Kimo "Aloha e ʻAnakala, naʻu ʻoe e kōkua aku!" = When Uncle Kālai arrived, Kimo called out, "Hi, Uncle, I'm going to help you!"
+1	I	I	ADP	_	_	0	dep	_	_
+2	ka	ka	DET	_	_	0	dep	_	_
+3	hōʻea	hōʻea	VERB	_	_	0	dep	_	_
+4	ʻana	ʻana	AUX	_	_	0	dep	_	_
+5	mai	mai	ADV	_	_	0	dep	_	_
+6	o	o	ADP	_	_	0	dep	_	_
+7	ʻAnakala	ʻAnakala	PROPN	_	_	0	dep	_	_
+8	Kālai	Kālai	PROPN	_	_	0	dep	_	_
+9	,	,	PUNCT	_	_	0	dep	_	_
+10	hea	hea	VERB	_	_	0	dep	_	_
+11	akula	akula	ADV	_	_	0	dep	_	_
+12	ʻo	ʻo	PART	_	_	0	dep	_	_
+13	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+14		_	X	_	_	0	dep	_	_
+15	Aloha	Aloha	INTJ	_	_	0	dep	_	_
+16	e	e	PART	_	_	0	dep	_	_
+17	ʻAnakala	ʻAnakala	PROPN	_	_	0	dep	_	_
+18	,	,	PUNCT	_	_	0	dep	_	_
+19	naʻu	naʻu	PRON	_	_	0	dep	_	_
+20	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+21	e	e	AUX	_	_	0	dep	_	_
+22	kōkua	kōkua	VERB	_	_	0	dep	_	_
+23	aku	aku	ADV	_	_	0	dep	_	_
+24	!	!	PUNCT	_	_	0	dep	_	_
+25		_	X	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 17
+# text = 17. "ʻAe, hiki nō!" i pane aku ai ʻo ʻAnakala. = "Okay!" answered Uncle.
+1		_	X	_	_	0	dep	_	_
+2	ʻAe	ʻAe	INTJ	_	_	0	dep	_	_
+3	,	,	PUNCT	_	_	0	dep	_	_
+4	hiki	hiki	ADJ	_	_	0	dep	_	_
+5	nō	nō	ADV	_	_	0	dep	_	_
+6	!	!	PUNCT	_	_	0	dep	_	_
+7		_	X	_	_	0	dep	_	_
+8	i	i	AUX	_	_	0	dep	_	_
+9	pane	pane	VERB	_	_	0	dep	_	_
+10	aku	aku	ADV	_	_	0	dep	_	_
+11	ai	ai	AUX	_	_	0	dep	_	_
+12	ʻo	ʻo	PART	_	_	0	dep	_	_
+13	ʻAnakala	ʻAnakala	PROPN	_	_	0	dep	_	_
+14	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 18
+# text = 18. "E kiʻi mua ʻoe i kaʻu lula." = "First go get my tape measure."
+1		_	X	_	_	0	dep	_	_
+2	E	E	AUX	_	_	0	dep	_	_
+3	kiʻi	kiʻi	VERB	_	_	0	dep	_	_
+4	mua	mua	ADV	_	_	0	dep	_	_
+5	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+6	i	i	PART	_	_	0	dep	_	_
+7	kaʻu	kaʻu	DET	_	_	0	dep	_	_
+8	lula	lula	NOUN	_	_	0	dep	_	_
+9	.	.	PUNCT	_	_	0	dep	_	_
+10		_	X	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 19
+# text = 19. Ua hauʻoli ʻo Kimo i ke kiʻi ʻana i nā pono hana a ʻAnakala i makemake ai. = Kimo was happy to get the tools that Uncle wanted.
+1	Ua	Ua	AUX	_	_	0	dep	_	_
+2	hauʻoli	hauʻoli	ADJ	_	_	0	dep	_	_
+3	ʻo	ʻo	PART	_	_	0	dep	_	_
+4	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+5	i	i	ADP	_	_	0	dep	_	_
+6	ke	ke	DET	_	_	0	dep	_	_
+7	kiʻi	kiʻi	VERB	_	_	0	dep	_	_
+8	ʻana	ʻana	AUX	_	_	0	dep	_	_
+9	i	i	PART	_	_	0	dep	_	_
+10	nā	nā	DET	_	_	0	dep	_	_
+11	pono	pono	NOUN	_	_	0	dep	_	_
+12	hana	hana	NOUN	_	_	0	dep	_	_
+13	a	a	SCONJ	_	_	0	dep	_	_
+14	ʻAnakala	ʻAnakala	PROPN	_	_	0	dep	_	_
+15	i	i	AUX	_	_	0	dep	_	_
+16	makemake	makemake	VERB	_	_	0	dep	_	_
+17	ai	ai	AUX	_	_	0	dep	_	_
+18	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 20
+# text = 20. Hoihoi ʻo ia i ko lākou hoʻohana ʻia ʻana. = He was interested in how they were used.
+1	Hoihoi	Hoihoi	ADJ	_	_	0	dep	_	_
+2	ʻo	ʻo	PART	_	_	0	dep	_	_
+3	ia	ia	PRON	_	_	0	dep	_	_
+4	i	i	ADP	_	_	0	dep	_	_
+5	ko	ko	ADP	_	_	0	dep	_	_
+6	lākou	lākou	PRON	_	_	0	dep	_	_
+7	hoʻohana	hoʻohana	NOUN	_	_	0	dep	_	_
+8	ʻia	ʻia	AUX	_	_	0	dep	_	_
+9	ʻana	ʻana	AUX	_	_	0	dep	_	_
+10	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 21
+# text = 21. Ke kāhea ʻo ʻAnakala Kālai, "E Kimo, e lawe mai ʻoe i ka hāmale," kiʻi koke aku ʻo Kimo i ka hāmale, a nānā akula ʻo ia i kā ʻAnakala hili ʻana i ke kui. = When Uncle Kālai called, "Kimo, bring me the hammer," Kimo quickly fetched the hammer, and he watched Uncle pound the nail.
+1	Ke	Ke	SCONJ	_	_	0	dep	_	_
+2	kāhea	kāhea	VERB	_	_	0	dep	_	_
+3	ʻo	ʻo	PART	_	_	0	dep	_	_
+4	ʻAnakala	ʻAnakala	PROPN	_	_	0	dep	_	_
+5	Kālai	Kālai	PROPN	_	_	0	dep	_	_
+6	,	,	PUNCT	_	_	0	dep	_	_
+7		_	X	_	_	0	dep	_	_
+8	E	E	PART	_	_	0	dep	_	_
+9	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+10	,	,	PUNCT	_	_	0	dep	_	_
+11	e	e	AUX	_	_	0	dep	_	_
+12	lawe	lawe	VERB	_	_	0	dep	_	_
+13	mai	mai	ADV	_	_	0	dep	_	_
+14	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+15	i	i	PART	_	_	0	dep	_	_
+16	ka	ka	DET	_	_	0	dep	_	_
+17	hāmale	hāmale	NOUN	_	_	0	dep	_	_
+18	,	,	PUNCT	_	_	0	dep	_	_
+19		_	X	_	_	0	dep	_	_
+20	kiʻi	kiʻi	VERB	_	_	0	dep	_	_
+21	koke	koke	ADV	_	_	0	dep	_	_
+22	aku	aku	ADV	_	_	0	dep	_	_
+23	ʻo	ʻo	PART	_	_	0	dep	_	_
+24	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+25	i	i	PART	_	_	0	dep	_	_
+26	ka	ka	DET	_	_	0	dep	_	_
+27	hāmale	hāmale	NOUN	_	_	0	dep	_	_
+28	,	,	PUNCT	_	_	0	dep	_	_
+29	a	a	CCONJ	_	_	0	dep	_	_
+30	nānā	nānā	VERB	_	_	0	dep	_	_
+31	akula	akula	ADV	_	_	0	dep	_	_
+32	ʻo	ʻo	PART	_	_	0	dep	_	_
+33	ia	ia	PRON	_	_	0	dep	_	_
+34	i	i	PART	_	_	0	dep	_	_
+35	kā	kā	ADP	_	_	0	dep	_	_
+36	ʻAnakala	ʻAnakala	PROPN	_	_	0	dep	_	_
+37	hili	hili	VERB	_	_	0	dep	_	_
+38	ʻana	ʻana	AUX	_	_	0	dep	_	_
+39	i	i	PART	_	_	0	dep	_	_
+40	ke	ke	DET	_	_	0	dep	_	_
+41	kui	kui	NOUN	_	_	0	dep	_	_
+42	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 22
+# text = 22. Kiʻi ʻo ia i ka pahiolo, a nānā i ke olo ʻana i ka lāʻau. = He fetched the saw and watched him saw the wood.
+1	Kiʻi	Kiʻi	VERB	_	_	0	dep	_	_
+2	ʻo	ʻo	PART	_	_	0	dep	_	_
+3	ia	ia	PRON	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	ka	ka	DET	_	_	0	dep	_	_
+6	pahiolo	pahiolo	NOUN	_	_	0	dep	_	_
+7	,	,	PUNCT	_	_	0	dep	_	_
+8	a	a	CCONJ	_	_	0	dep	_	_
+9	nānā	nānā	VERB	_	_	0	dep	_	_
+10	i	i	PART	_	_	0	dep	_	_
+11	ke	ke	DET	_	_	0	dep	_	_
+12	olo	olo	VERB	_	_	0	dep	_	_
+13	ʻana	ʻana	AUX	_	_	0	dep	_	_
+14	i	i	PART	_	_	0	dep	_	_
+15	ka	ka	DET	_	_	0	dep	_	_
+16	lāʻau	lāʻau	NOUN	_	_	0	dep	_	_
+17	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 23
+# text = 23. Kiʻi ʻo ia i ke koʻikahi, a nānā i ke kahi ʻana i ka papa lāʻau. = He fetched the planer and watched him plane the boards.
+1	Kiʻi	Kiʻi	VERB	_	_	0	dep	_	_
+2	ʻo	ʻo	PART	_	_	0	dep	_	_
+3	ia	ia	PRON	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	ke	ke	DET	_	_	0	dep	_	_
+6	koʻikahi	koʻikahi	NOUN	_	_	0	dep	_	_
+7	,	,	PUNCT	_	_	0	dep	_	_
+8	a	a	CCONJ	_	_	0	dep	_	_
+9	nānā	nānā	VERB	_	_	0	dep	_	_
+10	i	i	PART	_	_	0	dep	_	_
+11	ke	ke	DET	_	_	0	dep	_	_
+12	kahi	kahi	VERB	_	_	0	dep	_	_
+13	ʻana	ʻana	AUX	_	_	0	dep	_	_
+14	i	i	PART	_	_	0	dep	_	_
+15	ka	ka	DET	_	_	0	dep	_	_
+16	papa	papa	NOUN	_	_	0	dep	_	_
+17	lāʻau	lāʻau	NOUN	_	_	0	dep	_	_
+18	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 24
+# text = 24. A kiʻi ʻo ia i ke ana ʻiliwai, a nānā i ke ana ʻana i ka ʻiliwai o ka paepae pukaaniani. = He fetched the level and watched him check the level of the windowsill.
+1	A	A	CCONJ	_	_	0	dep	_	_
+2	kiʻi	kiʻi	VERB	_	_	0	dep	_	_
+3	ʻo	ʻo	PART	_	_	0	dep	_	_
+4	ia	ia	PRON	_	_	0	dep	_	_
+5	i	i	PART	_	_	0	dep	_	_
+6	ke	ke	DET	_	_	0	dep	_	_
+7	ana	ana	NOUN	_	_	0	dep	_	_
+8	ʻiliwai	ʻiliwai	NOUN	_	_	0	dep	_	_
+9	,	,	PUNCT	_	_	0	dep	_	_
+10	a	a	CCONJ	_	_	0	dep	_	_
+11	nānā	nānā	VERB	_	_	0	dep	_	_
+12	i	i	PART	_	_	0	dep	_	_
+13	ke	ke	DET	_	_	0	dep	_	_
+14	ana	ana	NOUN	_	_	0	dep	_	_
+15	ʻana	ʻana	AUX	_	_	0	dep	_	_
+16	i	i	PART	_	_	0	dep	_	_
+17	ka	ka	DET	_	_	0	dep	_	_
+18	ʻiliwai	ʻiliwai	NOUN	_	_	0	dep	_	_
+19	o	o	ADP	_	_	0	dep	_	_
+20	ka	ka	DET	_	_	0	dep	_	_
+21	paepae	paepae	NOUN	_	_	0	dep	_	_
+22	pukaaniani	pukaaniani	NOUN	_	_	0	dep	_	_
+23	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 25
+# text = 25. A paʻa ka lumi moe hou, mahalo akula ʻo Kimo i nā hana a ke kamanā. = When the new bedroom was finished, Kimo admired the carpenter's handiwork.
+1	A	A	CCONJ	_	_	0	dep	_	_
+2	paʻa	paʻa	ADJ	_	_	0	dep	_	_
+3	ka	ka	DET	_	_	0	dep	_	_
+4	lumi	lumi	NOUN	_	_	0	dep	_	_
+5	moe	moe	NOUN	_	_	0	dep	_	_
+6	hou	hou	ADJ	_	_	0	dep	_	_
+7	,	,	PUNCT	_	_	0	dep	_	_
+8	mahalo	mahalo	VERB	_	_	0	dep	_	_
+9	akula	akula	ADV	_	_	0	dep	_	_
+10	ʻo	ʻo	PART	_	_	0	dep	_	_
+11	Kimo	Kimo	PROPN	_	_	0	dep	_	_
+12	i	i	ADP	_	_	0	dep	_	_
+13	nā	nā	DET	_	_	0	dep	_	_
+14	hana	hana	NOUN	_	_	0	dep	_	_
+15	a	a	ADP	_	_	0	dep	_	_
+16	ke	ke	DET	_	_	0	dep	_	_
+17	kamanā	kamanā	NOUN	_	_	0	dep	_	_
+18	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 26
+# text = 26. Ua ʻike ʻo ia e mahalo pū ana ka pēpē hou i kona lumi hou. = And he knew that the new baby would also appreciate the new room.
+1	Ua	Ua	AUX	_	_	0	dep	_	_
+2	ʻike	ʻike	VERB	_	_	0	dep	_	_
+3	ʻo	ʻo	PART	_	_	0	dep	_	_
+4	ia	ia	PRON	_	_	0	dep	_	_
+5	e	e	AUX	_	_	0	dep	_	_
+6	mahalo	mahalo	VERB	_	_	0	dep	_	_
+7	pū	pū	ADV	_	_	0	dep	_	_
+8	ana	ana	AUX	_	_	0	dep	_	_
+9	ka	ka	DET	_	_	0	dep	_	_
+10	pēpē	pēpē	NOUN	_	_	0	dep	_	_
+11	hou	hou	ADJ	_	_	0	dep	_	_
+12	i	i	PART	_	_	0	dep	_	_
+13	kona	kona	DET	_	_	0	dep	_	_
+14	lumi	lumi	NOUN	_	_	0	dep	_	_
+15	hou	hou	ADJ	_	_	0	dep	_	_
+16	.	.	PUNCT	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_
+			_	_	_	0	dep	_	_

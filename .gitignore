@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Mac OS and other system files
+.DS_Store
+
+# Prefect temporary local server cache
+prefect.orion/
+
+# MLflow logs and artifacts
+mlruns/
+
+# Model outputs and checkpoints
+model_out/
+quick/
+*.ckpt
+
+# Tokenized data or intermediate artifacts
+data/tok/
+data/clean.txt
+quick/train.txt
+quick/valid.txt
+tokenizers/
+
+# Jupyter/IPython checkpoints (if any)
+.ipynb_checkpoints/
+
+# Pip or Poetry lock files (optional, if not used)
+poetry.lock
+Pipfile.lock
+
+# ClearML cache (if you tested ClearML previously)
+clearml_cache/
+
+# Logs
+*.log
+
+# Metrics and reports
+metrics.json
+
+# Model
+quick-haw-mlm/
+
+tb_runs
+wandb
+
+# Environment variables file
+.env
+
+# Gradio
+.gradio/

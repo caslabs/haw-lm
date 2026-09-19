@@ -1,0 +1,379 @@
+# sent_id = 1
+# text = 1. Aia Ka ʻAlakeka Ma Kaipāpaʻu? = Is There An Alligator At Kaipāpaʻu?
+1	Aia	Aia	ADV	_	_	0	dep	_	_
+2	Ka	Ka	DET	_	_	0	dep	_	_
+3	ʻAlakeka	ʻAlakeka	NOUN	_	_	0	dep	_	_
+4	Ma	Ma	ADP	_	_	0	dep	_	_
+5	Kaipāpaʻu	Kaipāpaʻu	NOUN	_	_	0	dep	_	_
+6	?	?	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 2
+# text = 2. Eia ka moʻolelo e pili ana i ka ʻalakeka o Kaipāpaʻu, ʻo ia hoʻi ke ahupuaʻa ma waena o Hauʻula a me Lāʻiemaloʻo. = There is a story about an alligator in Kaipāpaʻu, the land division between Hauʻula and Lāiemaloʻo.
+1	Eia	Eia	VERB	_	_	0	dep	_	_
+2	ka	ka	DET	_	_	0	dep	_	_
+3	moʻolelo	moʻolelo	NOUN	_	_	0	dep	_	_
+4	e	e	PART	_	_	0	dep	_	_
+5	pili	pili	VERB	_	_	0	dep	_	_
+6	ana	ana	PART	_	_	0	dep	_	_
+7	i	i	ADP	_	_	0	dep	_	_
+8	ka	ka	DET	_	_	0	dep	_	_
+9	ʻalakeka	ʻalakeka	NOUN	_	_	0	dep	_	_
+10	o	o	ADP	_	_	0	dep	_	_
+11	Kaipāpaʻu	Kaipāpaʻu	NOUN	_	_	0	dep	_	_
+12	,	,	PUNCT	_	_	0	dep	_	_
+13	ʻo	ʻo	PART	_	_	0	dep	_	_
+14	ia	ia	PRON	_	_	0	dep	_	_
+15	hoʻi	hoʻi	PART	_	_	0	dep	_	_
+16	ke	ke	DET	_	_	0	dep	_	_
+17	ahupuaʻa	ahupuaʻa	NOUN	_	_	0	dep	_	_
+18	ma	ma	ADP	_	_	0	dep	_	_
+19	waena	waena	NOUN	_	_	0	dep	_	_
+20	o	o	ADP	_	_	0	dep	_	_
+21	Hauʻula	Hauʻula	PROPN	_	_	0	dep	_	_
+22	a	a	CCONJ	_	_	0	dep	_	_
+23	me	me	CCONJ	_	_	0	dep	_	_
+24	Lāʻiemaloʻo	Lāʻiemaloʻo	PROPN	_	_	0	dep	_	_
+25	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 3
+# text = 3. Ua ʻike ʻoe i ia mea? = Have you seen it?
+1	Ua	Ua	AUX	_	_	0	dep	_	_
+2	ʻike	ʻike	VERB	_	_	0	dep	_	_
+3	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+4	i	i	ADP	_	_	0	dep	_	_
+5	ia	ia	DET	_	_	0	dep	_	_
+6	mea	mea	NOUN	_	_	0	dep	_	_
+7	?	?	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 4
+# text = 4. He ʻalakeka kupaianaha ʻo ia. = It is a magical alligator.
+1	He	He	DET	_	_	0	dep	_	_
+2	ʻalakeka	ʻalakeka	NOUN	_	_	0	dep	_	_
+3	kupaianaha	kupaianaha	ADJ	_	_	0	dep	_	_
+4	ʻo	ʻo	PART	_	_	0	dep	_	_
+5	ia	ia	PRON	_	_	0	dep	_	_
+6	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 5
+# text = 5. Peʻe ʻo ia ma ke kai. = It hides itself in the ocean.
+1	Peʻe	Peʻe	VERB	_	_	0	dep	_	_
+2	ʻo	ʻo	PART	_	_	0	dep	_	_
+3	ia	ia	PRON	_	_	0	dep	_	_
+4	ma	ma	ADP	_	_	0	dep	_	_
+5	ke	ke	DET	_	_	0	dep	_	_
+6	kai	kai	NOUN	_	_	0	dep	_	_
+7	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 6
+# text = 6. ʻIke ʻoe i nā puʻu o kona kua? = Do you see the bumps of his back?
+1	ʻIke	ʻIke	VERB	_	_	0	dep	_	_
+2	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+3	i	i	PART	_	_	0	dep	_	_
+4	nā	nā	DET	_	_	0	dep	_	_
+5	puʻu	puʻu	NOUN	_	_	0	dep	_	_
+6	o	o	ADP	_	_	0	dep	_	_
+7	kona	kona	DET	_	_	0	dep	_	_
+8	kua	kua	NOUN	_	_	0	dep	_	_
+9	?	?	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 7
+# text = 7. ʻIke ʻoe i ka miomio o kona ihu? = Do you see his pointy nose?
+1	ʻIke	ʻIke	VERB	_	_	0	dep	_	_
+2	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+3	i	i	PART	_	_	0	dep	_	_
+4	ka	ka	DET	_	_	0	dep	_	_
+5	miomio	miomio	NOUN	_	_	0	dep	_	_
+6	o	o	ADP	_	_	0	dep	_	_
+7	kona	kona	DET	_	_	0	dep	_	_
+8	ihu	ihu	NOUN	_	_	0	dep	_	_
+9	?	?	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 8
+# text = 8. ʻIke ʻoe i kona kua laulā ā nui? = Do you see his large broad back?
+1	ʻIke	ʻIke	VERB	_	_	0	dep	_	_
+2	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+3	i	i	PART	_	_	0	dep	_	_
+4	kona	kona	DET	_	_	0	dep	_	_
+5	kua	kua	NOUN	_	_	0	dep	_	_
+6	laulā	laulā	ADJ	_	_	0	dep	_	_
+7	ā	ā	PART	_	_	0	dep	_	_
+8	nui	nui	ADJ	_	_	0	dep	_	_
+9	?	?	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 9
+# text = 9. ʻIke ʻoe i kona huelo lōʻihi? = Do you see his long tai?
+1	ʻIke	ʻIke	VERB	_	_	0	dep	_	_
+2	ʻoe	ʻoe	PRON	_	_	0	dep	_	_
+3	i	i	PART	_	_	0	dep	_	_
+4	kona	kona	DET	_	_	0	dep	_	_
+5	huelo	huelo	NOUN	_	_	0	dep	_	_
+6	lōʻihi	lōʻihi	ADJ	_	_	0	dep	_	_
+7	?	?	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 10
+# text = 10. He aha lā ia mea? = What is he?
+1	He	He	DET	_	_	0	dep	_	_
+2	aha	aha	PRON	_	_	0	dep	_	_
+3	lā	lā	PART	_	_	0	dep	_	_
+4	ia	ia	DET	_	_	0	dep	_	_
+5	mea	mea	NOUN	_	_	0	dep	_	_
+6	?	?	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 11
+# text = 11. ʻAʻole nō ia he ʻalakeka maoli nona ka niho wakawaka. = He’s not a real alligator with sharp teeth.
+1	ʻAʻole	ʻAʻole	ADV	_	_	0	dep	_	_
+2	nō	nō	ADV	_	_	0	dep	_	_
+3	ia	ia	PRON	_	_	0	dep	_	_
+4	he	he	DET	_	_	0	dep	_	_
+5	ʻalakeka	ʻalakeka	NOUN	_	_	0	dep	_	_
+6	maoli	maoli	ADJ	_	_	0	dep	_	_
+7	nona	nona	ADJ	_	_	0	dep	_	_
+8	ka	ka	DET	_	_	0	dep	_	_
+9	niho	niho	NOUN	_	_	0	dep	_	_
+10	wakawaka	wakawaka	ADJ	_	_	0	dep	_	_
+11	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 12
+# text = 12. He pōhaku loloa nō ia. Ua kohu ʻalakeka ia mea nei. = He’s a long rock that looks like an alligator.
+1	He	He	DET	_	_	0	dep	_	_
+2	pōhaku	pōhaku	NOUN	_	_	0	dep	_	_
+3	loloa	loloa	ADJ	_	_	0	dep	_	_
+4	nō	nō	ADV	_	_	0	dep	_	_
+5	ia	ia	PRON	_	_	0	dep	_	_
+6	.	.	PUNCT	_	_	0	dep	_	_
+7	Ua	Ua	AUX	_	_	0	dep	_	_
+8	kohu	kohu	VERB	_	_	0	dep	_	_
+9	ʻalakeka	ʻalakeka	NOUN	_	_	0	dep	_	_
+10	ia	ia	DET	_	_	0	dep	_	_
+11	mea	mea	NOUN	_	_	0	dep	_	_
+12	nei	nei	AUX	_	_	0	dep	_	_
+13	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 13
+# text = 13. ʻO Loko Kai ʻO ʻAlakeka kēia. = This is Alligator Pond.
+1	ʻO	ʻO	PART	_	_	0	dep	_	_
+2	Loko	Loko	NOUN	_	_	0	dep	_	_
+3	Kai	Kai	NOUN	_	_	0	dep	_	_
+4	ʻO	ʻO	PART	_	_	0	dep	_	_
+5	ʻAlakeka	ʻAlakeka	NOUN	_	_	0	dep	_	_
+6	kēia	kēia	ADJ	_	_	0	dep	_	_
+7	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 14
+# text = 14. He wahi leʻaleʻa nohoʻi kēia i nā keiki o ke kaiāulu. = It is a fun place for children of the neighborhood.
+1	He	He	DET	_	_	0	dep	_	_
+2	wahi	wahi	NOUN	_	_	0	dep	_	_
+3	leʻaleʻa	leʻaleʻa	ADJ	_	_	0	dep	_	_
+4	nohoʻi	nohoʻi	ADV	_	_	0	dep	_	_
+5	kēia	kēia	ADJ	_	_	0	dep	_	_
+6	i	i	PART	_	_	0	dep	_	_
+7	nā	nā	DET	_	_	0	dep	_	_
+8	keiki	keiki	NOUN	_	_	0	dep	_	_
+9	o	o	PART	_	_	0	dep	_	_
+10	ke	ke	DET	_	_	0	dep	_	_
+11	kaiāulu	kaiāulu	NOUN	_	_	0	dep	_	_
+12	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 15
+# text = 15. Hele lākou i ʻaneʻi e ʻolu ai ke kino i ka wela o ka lā. = They come here to escape the heat of the day.
+1	Hele	Hele	VERB	_	_	0	dep	_	_
+2	lākou	lākou	PRON	_	_	0	dep	_	_
+3	i	i	PART	_	_	0	dep	_	_
+4	ʻaneʻi	ʻaneʻi	ADV	_	_	0	dep	_	_
+5	e	e	AUX	_	_	0	dep	_	_
+6	ʻolu	ʻolu	VERB	_	_	0	dep	_	_
+7	ai	ai	AUX	_	_	0	dep	_	_
+8	ke	ke	DET	_	_	0	dep	_	_
+9	kino	kino	NOUN	_	_	0	dep	_	_
+10	i	i	PART	_	_	0	dep	_	_
+11	ka	ka	DET	_	_	0	dep	_	_
+12	wela	wela	NOUN	_	_	0	dep	_	_
+13	o	o	PART	_	_	0	dep	_	_
+14	ka	ka	DET	_	_	0	dep	_	_
+15	lā	lā	NOUN	_	_	0	dep	_	_
+16	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 16
+# text = 16. Piʻi nā keiki i nā puʻu o kona kua. = Children climb the bumps of his back.
+1	Piʻi	Piʻi	VERB	_	_	0	dep	_	_
+2	nā	nā	DET	_	_	0	dep	_	_
+3	keiki	keiki	NOUN	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	nā	nā	DET	_	_	0	dep	_	_
+6	puʻu	puʻu	NOUN	_	_	0	dep	_	_
+7	o	o	PART	_	_	0	dep	_	_
+8	kona	kona	DET	_	_	0	dep	_	_
+9	kua	kua	NOUN	_	_	0	dep	_	_
+10	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 17
+# text = 17. ʻImi lākou i kēlā ʻano mea kēia ʻano mea e noho ana ma ka loko kai. = They search for different ocean creatures.
+1	ʻImi	ʻImi	VERB	_	_	0	dep	_	_
+2	lākou	lākou	PRON	_	_	0	dep	_	_
+3	i	i	PART	_	_	0	dep	_	_
+4	kēlā	kēlā	DET	_	_	0	dep	_	_
+5	ʻano	ʻano	NOUN	_	_	0	dep	_	_
+6	mea	mea	NOUN	_	_	0	dep	_	_
+7	kēia	kēia	DET	_	_	0	dep	_	_
+8	ʻano	ʻano	NOUN	_	_	0	dep	_	_
+9	mea	mea	NOUN	_	_	0	dep	_	_
+10	e	e	AUX	_	_	0	dep	_	_
+11	noho	noho	VERB	_	_	0	dep	_	_
+12	ana	ana	AUX	_	_	0	dep	_	_
+13	ma	ma	ADP	_	_	0	dep	_	_
+14	ka	ka	DET	_	_	0	dep	_	_
+15	loko	loko	NOUN	_	_	0	dep	_	_
+16	kai	kai	NOUN	_	_	0	dep	_	_
+17	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 18
+# text = 18. Hauʻoli nā keiki i ka pāʻani like i ke one ma ʻaneʻi. = Children love to play together in the sand.
+1	Hauʻoli	Hauʻoli	ADJ	_	_	0	dep	_	_
+2	nā	nā	DET	_	_	0	dep	_	_
+3	keiki	keiki	NOUN	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	ka	ka	DET	_	_	0	dep	_	_
+6	pāʻani	pāʻani	NOUN	_	_	0	dep	_	_
+7	like	like	ADV	_	_	0	dep	_	_
+8	i	i	PART	_	_	0	dep	_	_
+9	ke	ke	DET	_	_	0	dep	_	_
+10	one	one	NOUN	_	_	0	dep	_	_
+11	ma	ma	ADP	_	_	0	dep	_	_
+12	ʻaneʻi	ʻaneʻi	ADV	_	_	0	dep	_	_
+13	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 19
+# text = 19. ʻEli ka lima i ke one ā kūkulu ʻia nā mea like ʻole me ka pākeke one. = They dig with their hands and build things with their sand bucket.
+1	ʻEli	ʻEli	VERB	_	_	0	dep	_	_
+2	ka	ka	DET	_	_	0	dep	_	_
+3	lima	lima	NOUN	_	_	0	dep	_	_
+4	i	i	PART	_	_	0	dep	_	_
+5	ke	ke	DET	_	_	0	dep	_	_
+6	one	one	NOUN	_	_	0	dep	_	_
+7	ā	ā	CCONJ	_	_	0	dep	_	_
+8	kūkulu	kūkulu	VERB	_	_	0	dep	_	_
+9	ʻia	ʻia	AUX	_	_	0	dep	_	_
+10	nā	nā	VERB	_	_	0	dep	_	_
+11	mea	mea	NOUN	_	_	0	dep	_	_
+12	like	like	ADJ	_	_	0	dep	_	_
+13	ʻole	ʻole	ADJ	_	_	0	dep	_	_
+14	me	me	ADP	_	_	0	dep	_	_
+15	ka	ka	DET	_	_	0	dep	_	_
+16	pākeke	pākeke	NOUN	_	_	0	dep	_	_
+17	one	one	NOUN	_	_	0	dep	_	_
+18	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 20
+# text = 20. Hele ā ʻolu ke kino o ke kamaliʻi i ke kai pāpaʻu o kēia loko kai. = Children cool off their bodies in the shallow of the sea pond.
+1	Hele	Hele	VERB	_	_	0	dep	_	_
+2	ā	ā	CCONJ	_	_	0	dep	_	_
+3	ʻolu	ʻolu	VERB	_	_	0	dep	_	_
+4	ke	ke	DET	_	_	0	dep	_	_
+5	kino	kino	NOUN	_	_	0	dep	_	_
+6	o	o	PART	_	_	0	dep	_	_
+7	ke	ke	DET	_	_	0	dep	_	_
+8	kamaliʻi	kamaliʻi	NOUN	_	_	0	dep	_	_
+9	i	i	PART	_	_	0	dep	_	_
+10	ke	ke	DET	_	_	0	dep	_	_
+11	kai	kai	NOUN	_	_	0	dep	_	_
+12	pāpaʻu	pāpaʻu	ADJ	_	_	0	dep	_	_
+13	o	o	ADP	_	_	0	dep	_	_
+14	kēia	kēia	DET	_	_	0	dep	_	_
+15	loko	loko	NOUN	_	_	0	dep	_	_
+16	kai	kai	NOUN	_	_	0	dep	_	_
+17	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 21
+# text = 21. Akā naʻe ... ʻo ka lēkei mai ka ihu iho ka mea leʻaleʻa nui nō. = But ... jumping from his nose into the water is the most fun thing to do.
+1	Akā	Akā	CCONJ	_	_	0	dep	_	_
+2	naʻe	naʻe	CCONJ	_	_	0	dep	_	_
+3	.	.	PUNCT	_	_	0	dep	_	_
+4	.	.	PUNCT	_	_	0	dep	_	_
+5	.	.	PUNCT	_	_	0	dep	_	_
+6	ʻo	ʻo	PART	_	_	0	dep	_	_
+7	ka	ka	DET	_	_	0	dep	_	_
+8	lēkei	lēkei	NOUN	_	_	0	dep	_	_
+9	mai	mai	ADP	_	_	0	dep	_	_
+10	ka	ka	DET	_	_	0	dep	_	_
+11	ihu	ihu	NOUN	_	_	0	dep	_	_
+12	iho	iho	ADV	_	_	0	dep	_	_
+13	ka	ka	DET	_	_	0	dep	_	_
+14	mea	mea	NOUN	_	_	0	dep	_	_
+15	leʻaleʻa	leʻaleʻa	ADJ	_	_	0	dep	_	_
+16	nui	nui	ADJ	_	_	0	dep	_	_
+17	nō	nō	ADV	_	_	0	dep	_	_
+18	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 22
+# text = 22. Hauʻoli ka poʻe keiki. = The children are so happy.
+1	Hauʻoli	Hauʻoli	ADJ	_	_	0	dep	_	_
+2	ka	ka	DET	_	_	0	dep	_	_
+3	poʻe	poʻe	NOUN	_	_	0	dep	_	_
+4	keiki	keiki	NOUN	_	_	0	dep	_	_
+5	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 23
+# text = 23. He keu ā ka leʻaleʻa! = It is so much fun!
+1	He	He	DET	_	_	0	dep	_	_
+2	keu	keu	NOUN	_	_	0	dep	_	_
+3	ā	ā	ADP	_	_	0	dep	_	_
+4	ka	ka	DET	_	_	0	dep	_	_
+5	leʻaleʻa	leʻaleʻa	NOUN	_	_	0	dep	_	_
+6	!	!	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 24
+# text = 24. Akā naʻe, aia ā napoʻo ka lā, e hoʻi aku nō i ka hale. = When the day is done, we must return home.
+1	Akā	Akā	CCONJ	_	_	0	dep	_	_
+2	naʻe	naʻe	CCONJ	_	_	0	dep	_	_
+3	,	,	PUNCT	_	_	0	dep	_	_
+4	aia	aia	SCONJ	_	_	0	dep	_	_
+5	ā	ā	SCONJ	_	_	0	dep	_	_
+6	napoʻo	napoʻo	VERB	_	_	0	dep	_	_
+7	ka	ka	DET	_	_	0	dep	_	_
+8	lā	lā	NOUN	_	_	0	dep	_	_
+9	,	,	PUNCT	_	_	0	dep	_	_
+10	e	e	AUX	_	_	0	dep	_	_
+11	hoʻi	hoʻi	VERB	_	_	0	dep	_	_
+12	aku	aku	ADV	_	_	0	dep	_	_
+13	nō	nō	ADV	_	_	0	dep	_	_
+14	i	i	PART	_	_	0	dep	_	_
+15	ka	ka	DET	_	_	0	dep	_	_
+16	hale	hale	NOUN	_	_	0	dep	_	_
+17	.	.	PUNCT	_	_	0	dep	_	_
+				_	_	0	dep	_	_
+
+# sent_id = 25
+# text = 25. Aloha ā hui hou aku i kekahi lā wela! = So, good-bye until the next hot day.
+1	Aloha	Aloha	INTJ	_	_	0	dep	_	_
+2	ā	ā	CCONJ	_	_	0	dep	_	_
+3	hui	hui	VERB	_	_	0	dep	_	_
+4	hou	hou	ADV	_	_	0	dep	_	_
+5	aku	aku	ADV	_	_	0	dep	_	_
+6	i	i	PART	_	_	0	dep	_	_
+7	kekahi	kekahi	DET	_	_	0	dep	_	_
+8	lā	lā	NOUN	_	_	0	dep	_	_
+9	wela	wela	ADJ	_	_	0	dep	_	_
+10	!	!	PUNCT	_	_	0	dep	_	_
