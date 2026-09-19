@@ -60,3 +60,8 @@ wandb
 
 # Gradio
 .gradio/
+
+# Runtime databases
+*.db
+*.sqlite
+*.sqlite3
