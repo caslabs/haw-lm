@@ -278,19 +278,6 @@ label-studio-ml start label_studio_pos_backend \
 when you add the model under Settings ▸ **Model**.*
 ```
 
-
-## Contact Us
-
-For questions or support regarding the `Towards an ʻŌlelo Hawaiʻi Language Model` project that was built for the Akamai 2025 Workforce Initiative Program, please reach out to:
-
-- **Jerald Dancel**
-  - Email: jeraldy@hawaii.edu
-  - Role:  Project Lead / Mentee
-
-- **Winston Wu**
-  - Email: wswu@hawaii.edu
-  - Role: NLP Specialist / Mentor
-
 ## Acknowledgements
 
 The Akamai Internship Program is managed by the Institute for Scientist & Engineer Educators at the University of California Observatories, in partnership with the University of Hawai‘i at Hilo.
